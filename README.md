@@ -13,6 +13,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Procedure :
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
+## Experiment:
+
+![203708889-2f4e0b3f-9407-497c-9474-b1043e6a49d8](https://github.com/Kamali22004796/Muttiple-capacity-with-infinite-capacity/assets/120567837/a42ba8f9-6447-4e0b-a6d9-c8e9f843ddfb)
 
 ## Program
 
